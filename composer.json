@@ -10,6 +10,7 @@
         "deptrac/deptrac": "^4.6",
         "friendsofphp/php-cs-fixer": "^3.95",
         "pdepend/pdepend": "^2.2",
+        "phpat/phpat": "^0.12.4",
         "phploc/phploc": "^7.0",
         "phpmd/phpmd": "^2.5",
         "phpmetrics/phpmetrics": "^2.9",
