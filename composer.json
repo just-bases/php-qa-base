@@ -9,6 +9,7 @@
         "phpmetrics/phpmetrics": "^2.9",
         "phpstan/phpstan": "^2.2",
         "friendsofphp/php-cs-fixer": "^3.95",
-        "pdepend/pdepend": "^2.2"
+        "pdepend/pdepend": "^2.2",
+        "phploc/phploc": "^7.0"
     }
 }
