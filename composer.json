@@ -19,7 +19,6 @@
         "povils/phpmnd": "^3.6",
         "rector/rector": "^2.5",
         "rskuipers/php-assumptions": "^0.9.1",
-        "scheb/tombstone-analyzer": "^1.10",
         "scheb/tombstone-logger": "^1.10",
         "sebastian/phpcpd": "^6.0",
         "seld/jsonlint": "^1.12",
