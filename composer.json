@@ -12,6 +12,7 @@
         "phploc/phploc": "^7.0",
         "phpmd/phpmd": "^2.5",
         "phpmetrics/phpmetrics": "^2.9",
+        "phpstan/extension-installer": "^1.4",
         "phpstan/phpstan": "^2.2",
         "povils/phpmnd": "^3.6",
         "rector/rector": "^2.5",
@@ -25,7 +26,8 @@
     "config": {
         "sort-packages": true,
         "allow-plugins": {
-            "dantleech/what-changed": true
+            "dantleech/what-changed": true,
+            "phpstan/extension-installer": true
         }
     }
 }
