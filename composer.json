@@ -17,7 +17,8 @@
         "scheb/tombstone-analyzer": "^1.10",
         "scheb/tombstone-logger": "^1.10",
         "sebastian/phpcpd": "^6.0",
-        "seld/jsonlint": "^1.12"
+        "seld/jsonlint": "^1.12",
+        "squizlabs/php_codesniffer": "^4.0"
     },
     "config": {
         "sort-packages": true
