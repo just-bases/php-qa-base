@@ -23,6 +23,7 @@
         "scheb/tombstone-logger": "^1.10",
         "sebastian/phpcpd": "^6.0",
         "seld/jsonlint": "^1.12",
+        "shipmonk/name-collision-detector": "^2.1",
         "squizlabs/php_codesniffer": "^4.0"
     },
     "config": {
