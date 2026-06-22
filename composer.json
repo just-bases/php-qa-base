@@ -11,6 +11,7 @@
         "phpmd/phpmd": "^2.5",
         "phpmetrics/phpmetrics": "^2.9",
         "phpstan/phpstan": "^2.2",
+        "povils/phpmnd": "^3.6",
         "rector/rector": "^2.5",
         "rskuipers/php-assumptions": "^0.9.1",
         "scheb/tombstone-analyzer": "^1.10",
