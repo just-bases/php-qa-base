@@ -3,8 +3,10 @@
     "description": "PHP QA Metapackage",
     "type": "metapackage",
     "license": "MIT",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
+        "dantleech/what-changed": "^0.4.5",
         "friendsofphp/php-cs-fixer": "^3.95",
         "pdepend/pdepend": "^2.2",
         "phploc/phploc": "^7.0",
@@ -21,6 +23,9 @@
         "squizlabs/php_codesniffer": "^4.0"
     },
     "config": {
-        "sort-packages": true
+        "sort-packages": true,
+        "allow-plugins": {
+            "dantleech/what-changed": true
+        }
     }
 }
