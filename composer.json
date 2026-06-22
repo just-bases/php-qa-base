@@ -20,7 +20,6 @@
         "rector/rector": "^2.5",
         "rskuipers/php-assumptions": "^0.9.1",
         "scheb/tombstone-logger": "^1.10",
-        "sebastian/phpcpd": "^6.0",
         "seld/jsonlint": "^1.12",
         "shipmonk/dead-code-detector": "^1.2",
         "shipmonk/name-collision-detector": "^2.1",
