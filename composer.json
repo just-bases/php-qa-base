@@ -6,6 +6,8 @@
     "minimum-stability": "stable",
     "require": {
         "rector/rector": "^2.5",
-        "phpmetrics/phpmetrics": "^2.9"
+        "phpmetrics/phpmetrics": "^2.9",
+        "phpstan/phpstan": "^2.2",
+        "friendsofphp/php-cs-fixer": "^3.95"
     }
 }
