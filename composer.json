@@ -13,6 +13,7 @@
         "phploc/phploc": "^7.0",
         "phpmd/phpmd": "^2.5",
         "scheb/tombstone-logger": "^1.10",
-        "scheb/tombstone-analyzer": "^1.10"
+        "scheb/tombstone-analyzer": "^1.10",
+        "sebastian/phpcpd": "^6.0"
     }
 }
