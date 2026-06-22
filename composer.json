@@ -5,16 +5,20 @@
     "license": "MIT",
     "minimum-stability": "stable",
     "require": {
-        "rector/rector": "^2.5",
-        "phpmetrics/phpmetrics": "^2.9",
-        "phpstan/phpstan": "^2.2",
         "friendsofphp/php-cs-fixer": "^3.95",
         "pdepend/pdepend": "^2.2",
         "phploc/phploc": "^7.0",
         "phpmd/phpmd": "^2.5",
-        "scheb/tombstone-logger": "^1.10",
+        "phpmetrics/phpmetrics": "^2.9",
+        "phpstan/phpstan": "^2.2",
+        "rector/rector": "^2.5",
+        "rskuipers/php-assumptions": "^0.9.1",
         "scheb/tombstone-analyzer": "^1.10",
+        "scheb/tombstone-logger": "^1.10",
         "sebastian/phpcpd": "^6.0",
         "seld/jsonlint": "^1.12"
+    },
+    "config": {
+        "sort-packages": true
     }
 }
