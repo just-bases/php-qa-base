@@ -1,0 +1,8 @@
+{
+    "name": "just-bases/php-qa-base",
+    "description": "PHP QA Metapackage",
+    "type": "metapackage",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {}
+}
