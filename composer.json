@@ -4,5 +4,7 @@
     "type": "metapackage",
     "license": "MIT",
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "rector/rector": "^2.5"
+    }
 }
