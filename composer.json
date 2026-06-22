@@ -5,6 +5,7 @@
     "license": "MIT",
     "minimum-stability": "stable",
     "require": {
-        "rector/rector": "^2.5"
+        "rector/rector": "^2.5",
+        "phpmetrics/phpmetrics": "^2.9"
     }
 }
