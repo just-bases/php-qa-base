@@ -9,6 +9,7 @@
         "dantleech/what-changed": "^0.4.5",
         "deptrac/deptrac": "^4.6",
         "friendsofphp/php-cs-fixer": "^3.95",
+        "infection/codeception-adapter": "^0.4.7",
         "pdepend/pdepend": "^2.2",
         "phpat/phpat": "^0.12.4",
         "phpbench/phpbench": "^1.7",
