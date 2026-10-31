@@ -8,6 +8,7 @@
     "require": {
         "dantleech/what-changed": "^0.4.5",
         "deptrac/deptrac": "^4.6",
+        "ergebnis/composer-normalize": "^2.56",
         "friendsofphp/php-cs-fixer": "^3.95",
         "infection/codeception-adapter": "^0.4.7",
         "pdepend/pdepend": "^2.2",
@@ -31,6 +32,7 @@
         "sort-packages": true,
         "allow-plugins": {
             "dantleech/what-changed": true,
+            "ergebnis/composer-normalize": true,
             "phpstan/extension-installer": true
         }
     }
