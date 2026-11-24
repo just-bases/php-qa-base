@@ -1,10 +1,8 @@
 {
     "name": "just-bases/php-qa-base",
     "description": "PHP QA Metapackage",
-    "type": "metapackage",
     "license": "MIT",
-    "minimum-stability": "dev",
-    "prefer-stable": true,
+    "type": "metapackage",
     "require": {
         "dantleech/what-changed": "^0.4.5",
         "deptrac/deptrac": "^4.6",
@@ -28,12 +26,14 @@
         "shipmonk/name-collision-detector": "^2.1",
         "squizlabs/php_codesniffer": "^4.0"
     },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "config": {
-        "sort-packages": true,
         "allow-plugins": {
             "dantleech/what-changed": true,
             "ergebnis/composer-normalize": true,
             "phpstan/extension-installer": true
-        }
+        },
+        "sort-packages": true
     }
 }
